@@ -1,11 +1,8 @@
 Hello, world!!
 
 
-Hello, world!!
-Hello, world!!
-
-Bye bye.
-
 Cambio compu dir A
 
 Cambio compu dir A 2°
+
+Cambio en compu dir B 
