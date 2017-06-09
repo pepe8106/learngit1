@@ -7,3 +7,5 @@ Hello, world!!
 Bye bye.
 
 Cambio compu dir A
+
+Cambio compu dir A 2°
