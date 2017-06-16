@@ -1,5 +1,9 @@
 --> Changed by me in Z <-- Prueba de cambio en el archivo
 --->Modificado por A<-----Prueba de cambio en el archivo
 
+<<<<<<< HEAD
 function Z(){
+=======
+function A(){
+>>>>>>> cc90a6e1fab9ed81313437279f10d92422f49b7f
 }
