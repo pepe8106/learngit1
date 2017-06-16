@@ -1,8 +1,2 @@
-Hello, world!!
-
-
-Cambio compu dir A
-
-Cambio compu dir A 2°
-
-Cambio en compu dir B 
+Hello, world!! - 1111111111
+Nueva línea en Z
