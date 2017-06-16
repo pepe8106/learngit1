@@ -2,6 +2,6 @@
 --->Modificado por A<-----Prueba de cambio en el archivo
 
 
-function Zinte(){
+init function Zinte(){
 
 
